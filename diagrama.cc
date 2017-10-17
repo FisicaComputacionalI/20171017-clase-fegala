@@ -1,4 +1,4 @@
-//Programa que calcula la suma de numeros impares del 1 al 10
+//Programa que calcula la suma de numeros pares del 1 al 20
 //Fernando Garza Landa
 //17/10/17
 
@@ -9,9 +9,9 @@ int main()
 {
   int sum=0;
   int count=1;
-  while (count<10)
+  while (count<21)
     {
-      if ((count%2)>0)
+      if ((count%2)<=0)
 	{
 	  sum=sum+count;
 	}
