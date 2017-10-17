@@ -1,6 +1,7 @@
 //Programa que calcula la suma de numeros pares del 1 al 20
 //Fernando Garza Landa
 //17/10/17
+//El resultado deberia ser 110
 
 #include <iostream>
 using namespace std;
